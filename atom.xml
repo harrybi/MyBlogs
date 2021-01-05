@@ -3,11 +3,11 @@
   <title>老毕哔哔哔</title>
   
   <subtitle>中年IT大叔</subtitle>
-  <link href="https://github.com/harrybi/atom.xml" rel="self"/>
+  <link href="https://harrylife.cn/atom.xml" rel="self"/>
   
-  <link href="https://github.com/harrybi/"/>
+  <link href="https://harrylife.cn/"/>
   <updated>2021-01-04T11:57:31.482Z</updated>
-  <id>https://github.com/harrybi/</id>
+  <id>https://harrylife.cn/</id>
   
   <author>
     <name>老毕</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/harrybi/2021/01/04/hello-world/"/>
-    <id>https://github.com/harrybi/2021/01/04/hello-world/</id>
+    <link href="https://harrylife.cn/2021/01/04/hello-world/"/>
+    <id>https://harrylife.cn/2021/01/04/hello-world/</id>
     <published>2021-01-04T11:57:31.482Z</published>
     <updated>2021-01-04T11:57:31.482Z</updated>
     
