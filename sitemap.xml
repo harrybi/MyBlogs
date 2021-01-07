@@ -2,21 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://harrylife.cn/2021/01/04/hello-world/</loc>
+    <loc>https://harrylife.cn/2021/01/05/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C/</loc>
     
-    <lastmod>2021-01-04</lastmod>
+    <lastmod>2021-01-07</lastmod>
     
   </url>
   
 
   <url>
     <loc>https://harrylife.cn/</loc>
-    <lastmod>2021-01-05</lastmod>
+    <lastmod>2021-01-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>https://harrylife.cn/tags/%E7%AB%8B%E5%BF%97/</loc>
+    <lastmod>2021-01-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://harrylife.cn/tags/%E4%BD%A0%E5%A5%BD/</loc>
+    <lastmod>2021-01-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://harrylife.cn/tags/2021/</loc>
+    <lastmod>2021-01-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://harrylife.cn/tags/%E5%AE%A3%E8%A8%80/</loc>
+    <lastmod>2021-01-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://harrylife.cn/tags/%E6%94%B9%E5%8F%98/</loc>
+    <lastmod>2021-01-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://harrylife.cn/tags/%E8%9C%95%E5%8F%98/</loc>
+    <lastmod>2021-01-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://harrylife.cn/categories/%E6%97%A5%E5%B8%B8%E6%9B%B4%E6%96%B0/</loc>
+    <lastmod>2021-01-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>

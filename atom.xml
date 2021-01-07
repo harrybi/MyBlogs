@@ -6,7 +6,7 @@
   <link href="https://harrylife.cn/atom.xml" rel="self"/>
   
   <link href="https://harrylife.cn/"/>
-  <updated>2021-01-04T11:57:31.482Z</updated>
+  <updated>2021-01-07T06:25:02.140Z</updated>
   <id>https://harrylife.cn/</id>
   
   <author>
@@ -17,22 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://harrylife.cn/2021/01/04/hello-world/"/>
-    <id>https://harrylife.cn/2021/01/04/hello-world/</id>
-    <published>2021-01-04T11:57:31.482Z</published>
-    <updated>2021-01-04T11:57:31.482Z</updated>
+    <title>你好，世界</title>
+    <link href="https://harrylife.cn/2021/01/05/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C/"/>
+    <id>https://harrylife.cn/2021/01/05/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C/</id>
+    <published>2021-01-05T10:05:05.000Z</published>
+    <updated>2021-01-07T06:25:02.140Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="开篇"><a href="#开篇" class="headerlink" title="开篇"></a>开篇</h1><p>中年码农，每天过着上班下班加班的三班生活，周而复始，天天生活在忙碌，焦虑，不甘的状态中，偶尔踌躇满志，拿本《创业》认真阅读，几十页过后就掩旗息鼓没了冲动，开始无限期混吃等死。如果你也是这种状态，那么跟我一起改变吧，我也不能保证你能收获什么，至少在你故事的最后可以骄傲的说：我自己尝试过。2021我来了！！！</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;h1 id=&quot;开篇&quot;&gt;&lt;a href=&quot;#开篇&quot; class=&quot;headerlink&quot; title=&quot;开篇&quot;&gt;&lt;/a&gt;开篇&lt;/h1&gt;&lt;p&gt;中年码农，每天过着上班下班加班的三班生活，周而复始，天天生活在忙碌，焦虑，不甘的状态中，偶尔踌躇满志，拿本《创业》认真阅读，几十页过后就掩旗</summary>
       
     
     
     
+    <category term="日常更新" scheme="https://harrylife.cn/categories/%E6%97%A5%E5%B8%B8%E6%9B%B4%E6%96%B0/"/>
+    
+    
+    <category term="立志" scheme="https://harrylife.cn/tags/%E7%AB%8B%E5%BF%97/"/>
+    
+    <category term="你好" scheme="https://harrylife.cn/tags/%E4%BD%A0%E5%A5%BD/"/>
+    
+    <category term="2021" scheme="https://harrylife.cn/tags/2021/"/>
+    
+    <category term="宣言" scheme="https://harrylife.cn/tags/%E5%AE%A3%E8%A8%80/"/>
+    
+    <category term="改变" scheme="https://harrylife.cn/tags/%E6%94%B9%E5%8F%98/"/>
+    
+    <category term="蜕变" scheme="https://harrylife.cn/tags/%E8%9C%95%E5%8F%98/"/>
     
   </entry>
   
